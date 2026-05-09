@@ -1,0 +1,4 @@
+hostname,username,password
+<IPaddress>,<username>,<password>
+Eg:
+10.11.0.122,linux,1234
